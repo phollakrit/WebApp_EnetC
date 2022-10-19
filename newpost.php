@@ -25,7 +25,6 @@
 		<tr><td>เนื้อหา:</td><td><textarea rows="2" cols="30"></textarea></td></tr>
 		<tr><td></td><td><input type="submit" value="บันทึกข้อความ"></td></tr>
 		</table>
-	</form>
-	
+	</form>	
 </body>
 </html>
